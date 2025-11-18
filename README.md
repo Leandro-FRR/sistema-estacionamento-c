@@ -27,7 +27,7 @@ O software simula a rotina completa de um estacionamento, desde a entrada do ve�
 Este é um programa de console desenvolvido para ambiente **Windows**.
 
 1. Clone este repositório.
-2. Compile o arquivo `main.cpp` utilizando um compilador C/C++ (GCC, MinGW) ou uma IDE (Dev-C++, Code::Blocks).
+2. Compile o arquivo `Estacionamento.cpp` utilizando um compilador C/C++ (GCC, MinGW) ou uma IDE (Dev-C++, Code::Blocks).
 3. Execute o arquivo gerado `.exe`.
 
 **Nota:** O sistema utiliza comandos específicos da API do Windows (`system("cls")`, `Sleep()`) para melhor experiência visual no console.
